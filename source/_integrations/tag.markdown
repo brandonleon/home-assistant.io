@@ -4,6 +4,7 @@ description: Instructions on how to get started with tags in Home Assistant
 ha_category:
   - Automation
 ha_release: 0.115
+ha_iot_class: Local Push
 ha_codeowners:
   - '@balloob'
   - '@dmulcahey'
